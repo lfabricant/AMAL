@@ -17,7 +17,6 @@ struct ProfileView: View {
                 .padding(.top)
             
             
-            // bluetooth stuff
             // MARK: - Push Notifications
             Text("Push Notification Demo")
                 .font(.title)
