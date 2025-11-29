@@ -7,8 +7,6 @@
 
 import SwiftUI
 struct ProfileView: View {
-    @StateObject var bleManager = BLEManager()
-    
     var body: some View {
         VStack(spacing: 20) {
             Text("Profile Page")

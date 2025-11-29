@@ -1,15 +1,15 @@
 //
-//  AMALApp.swift
-//  AMAL
+//  LymphaSenseApp.swift
+//  LymphaSense
 //
 //  Created by Lindsay on 10/27/25.
 //
 
 import SwiftUI
-
+import UIKit
 
 @main
-struct AMALApp: App {
+struct LymphaSenseApp: App {
     @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
     
     var body: some Scene {
